@@ -1,1 +1,15 @@
-this is a portfolio website
+A fully responsive portfolio website built with HTML, CSS, and JavaScript. The website showcases your skills, projects, and contact information in a clean and modern design, making it a perfect platform to present your work to potential employers or clients.
+
+✨ Features
+Responsive Design: Adapts to different screen sizes (mobile, tablet, desktop).
+Interactive UI: Smooth animations and dynamic elements enhance user experience.
+Portfolio Showcase: Display projects with details and links to live demos or repositories.
+About Section: Introduce yourself with a brief bio and professional details.
+Contact Form: Allow visitors to get in touch via email.
+Navigation Menu: Easy-to-use sticky navigation bar for seamless browsing.
+🚀 Technologies Used
+HTML5: For semantic structure and content.
+CSS3: For styling and layout.
+Flexbox and Grid for responsive design.
+Media queries for device-specific styles.
+JavaScript: For interactivity and animations.
